@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411925545 source:c:\users\piyu\documents\github\lovelettermystery\main.c
+	<stdio.h>
+	<stdlib.h>
+

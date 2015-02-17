@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1411845119 source:c:\users\piyu\documents\github\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1411845308 source:g:\personality development and placement\jethuri\prgrm e books\data structure 1\linked list\reverse.c
+	<stdio.h>
+	<stdlib.h>
+

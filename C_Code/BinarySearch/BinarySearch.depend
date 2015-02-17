@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411942352 source:c:\users\piyu\documents\github\c_code\binarysearch\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423550333 source:c:\users\piyu\documents\github\preparation\main.c
+	<stdio.h>
+	<limits.h>
+
